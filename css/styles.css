@@ -47,12 +47,13 @@ p{
 .top-container {
   background-color: #b4e9e2;
   position: relative;
-  padding-top: 140px;
+  padding-top: 170px;
+  padding-bottom: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
+  bottom: 350px;
   left: 450px;
 }
 
