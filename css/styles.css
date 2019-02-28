@@ -47,18 +47,18 @@ p{
 .top-container {
   background-color: #b4e9e2;
   position: relative;
-  padding-top: 170px;
+  padding-top: 150px;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 450px;
+  bottom: 350px;
   left: 450px;
 }
 
 .top-cloud {
   position: absolute;
-  top: 50px;
+  top: 70px;
   right: 450px;
 }
 .profile-picture{
